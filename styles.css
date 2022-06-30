@@ -1,0 +1,40 @@
+div{
+    text-align: center;
+    font-size: x-large;
+    background-color: ;
+    
+}
+
+h1{
+    text-align: center;
+    background-color: darkturquoise;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    padding-bottom: 7px;
+    padding-top: 10px;
+    margin-top: auto;
+}
+
+#french{
+    height: auto;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px;
+    padding-top: 0%;
+    margin-top: auto;
+    
+}
+#list{
+    text-align: left;
+
+}
+.sect{
+    text-align: center;
+}
+.body{
+    background-color: darkgrey;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
